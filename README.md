@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps Engineer and CS Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmoorat" alt="jmoorat" /> </p>
 
-👨‍💻 All of my projects are available at [julienmoorat.fr](julienmoorat.fr)
+👨‍💻 Fin more about me at [www.julienmoorat.fr](www.julienmoorat.fr)
 
 💬 Ask me about **Cloud, DevOps, AWS, Web Development**
 
